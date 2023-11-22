@@ -1,0 +1,8 @@
+{
+  "name": "zenn.dev",
+  "version": "0.0.0",
+  "author": "Futa IWATA <futaiwata@gmail.com>",
+  "dependencies": {
+    "zenn-cli": "^0.1.149"
+  }
+}
